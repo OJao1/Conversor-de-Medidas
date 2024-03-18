@@ -4,8 +4,8 @@ while sair == False:
     print("=-==-==-==-==-= Menu de Opções =-==-==-==-==-=")
 
     print('''
-        [1] Criar uma lista:
-        [2] Calculadora:
+        [1] Criar uma lista
+        [2] Calculadora
         [3] Conversor
         [4]
         ''')
